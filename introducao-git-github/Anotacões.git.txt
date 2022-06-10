@@ -1,0 +1,16 @@
+-- Git 
+
+	Comandos  principais
+
+* Listagem de pastas 'dir'
+* Navegar entre pastas 'cd'
+* Criar pasta 'mkdir'
+* O comando 'del' deleta arquivo
+para deleta o repositorio usa o comando 'rmdir /S /Q'
+	Para inicia o git usa os comandos
+* git init  = inciar o git
+* git add = iniciar o versionamento
+* git commit = cria um commit
+* git status = verifica se tem alterações pendentes
+-- link para a documentação 
+[ https://git-scm.com/docs/git/pt_BR ]
